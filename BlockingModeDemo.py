@@ -12,7 +12,7 @@ from PSU_API import MasterWatt1200W
 if __name__ == '__main__':
 
     # initial
-    PSU = MasterWatt1200W("COM3")
+    PSU = MasterWatt1200W()
 
     while (True):
         # Blocking Mode
