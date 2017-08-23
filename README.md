@@ -10,6 +10,7 @@ sudo apt-get install python-serial
 ## Requirement
 * pyserial (for Python)
 * python-shell (for Node.JS)
+  * ```npm install python-shell```
 
 * #Enable Serial (on Raspberry Pi)
 
