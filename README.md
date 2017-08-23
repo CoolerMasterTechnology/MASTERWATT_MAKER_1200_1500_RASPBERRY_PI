@@ -14,6 +14,18 @@ sudo apt-get install python-serial
 
 * #Enable Serial (on Raspberry Pi)
 
+## Monitoring for Python
+### Blocking Mode
+```python BlockingModeDemo.py```  
+
+### Non-Blocking Mode
+##### Require set timeout. (Default: 10 seconds)  
+```python NonBlockingModeDemo.py```
+
+
+## Monitoring for Node.js
+```node NodeApp.js```
+
 ## Wire Connection
 ![Wire Connection](https://raw.githubusercontent.com/CoolerMasterTechnology/MASTERWATT_MAKER_1200_1500_RASPBERRY_PI/master/Image/wire_connection.png)
 
