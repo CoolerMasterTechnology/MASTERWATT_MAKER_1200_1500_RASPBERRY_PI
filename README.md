@@ -1,5 +1,8 @@
 # MASTERWATT_MAKER_1200_1500_RASPBERRY_PI
 
+## Version
+* Release V1.00  (Aug 23, 2017)
+
 ## Installation
 
 ```
