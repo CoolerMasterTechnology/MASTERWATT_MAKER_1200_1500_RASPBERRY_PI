@@ -12,6 +12,9 @@ sudo apt-get install python-serial
 ```
 ## Requirement
 * pyserial (for Python)
+  * ```sudo apt-get install python-serial```  
+  or
+  * ```pip install pyserial```
 * python-shell (for Node.JS)
   * ```npm install python-shell```
 
